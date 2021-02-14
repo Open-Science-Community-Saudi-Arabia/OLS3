@@ -1,2 +1,2 @@
-# Template
-This is a template I created to be used when building packages.
+# Open Life Science Project
+This repo contains all the drafts, links used to develop my OLS3 project.
