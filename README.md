@@ -1,5 +1,5 @@
 # Open Life Science Project
-This repo contains all the drafts, links used to develop my OLS3 project.
+This repo contains all the drafts, links used to develop Open Life Science Community in Saudi Arabia.
 ## Anelda
 - [OLS3 notes](https://hackmd.io/eoTDFLL_R9-w0y9mJayGQQ)
 ## Paula Moraga Meetings:
