@@ -50,7 +50,7 @@ Network ](https://elpub.architexturez.net/system/files/STAL9781614997696-0018.pd
 ## Starter Kits:
  - [Starter Kit](https://inosc-starter-kit.netlify.app/)
  - [How to build an open Science Community](https://www.cos.io/blog/how-build-open-science-network-your-community)
- - Completed my [my Open Canvahttps://docs.google.com/presentation/d/1TVT74g8IF8COIFnUc_CCyaU7DqXbNCmI5cjrDGbb9NA/edit#slide=id.ps]() but needs improvement.
+ - Completed my [my Open Canvas](https://docs.google.com/presentation/d/1TVT74g8IF8COIFnUc_CCyaU7DqXbNCmI5cjrDGbb9NA/edit#slide=id.ps) but needs improvement.
 ## Online Software and Tools:
 - Zoom
 - Spatial
