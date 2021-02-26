@@ -21,10 +21,11 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - I'll also give a workshop with R4E on 17th of March
 - I asked some saudi magazine if I can write articles about open science and our community
 - I'll write few English articles in my blog in Medium this week
-- Opened an [issue] in OLS3 repo.
+- Opened an [issue](https://github.com/open-life-science/ols-3/issues/39) in OLS3 repo.
 
 ## My Resources:
 - [Existing proposals about community building](https://figshare.com/articles/journal_contribution/A_Programme_for_the_Development_of_Computational_and_Digital_Research_Capacity_in_South_Africa_and_Africa_-_phase_1/3382168)
+- [Community development handbook](https://www.gov.uk/government/publications/community-development-handbook/community-development-handbook)
 - [Theory of change](https://www.sopact.com/theory-of-change)
 - [Fishbone diagram/cause/effect diagram](https://asq.org/quality-resources/fishbone)
 - [Why open research](http://whyopenresearch.org/)
