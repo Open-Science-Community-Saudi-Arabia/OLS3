@@ -25,6 +25,7 @@ or:
 - I'll also give a workshop with R4E on 17th of March
 - I asked some saudi magazine if I can write articles about open science and our community
 - I'll write few English articles in my blog in Medium this week
+- Opened an [issue] in OLS3 repo.
 
 ## My Resources:
 - [Existing proposals about community building](https://figshare.com/articles/journal_contribution/A_Programme_for_the_Development_of_Computational_and_Digital_Research_Capacity_in_South_Africa_and_Africa_-_phase_1/3382168)
@@ -49,6 +50,7 @@ Network ](https://elpub.architexturez.net/system/files/STAL9781614997696-0018.pd
 ## Starter Kits:
  - [Starter Kit](https://inosc-starter-kit.netlify.app/)
  - [How to build an open Science Community](https://www.cos.io/blog/how-build-open-science-network-your-community)
+ - Completed my [my Open Canvahttps://docs.google.com/presentation/d/1TVT74g8IF8COIFnUc_CCyaU7DqXbNCmI5cjrDGbb9NA/edit#slide=id.ps]() but needs improvement.
 ## Online Software and Tools:
 - Zoom
 - Spatial
