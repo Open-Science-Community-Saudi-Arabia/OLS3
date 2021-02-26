@@ -1,4 +1,4 @@
-# Open Life Science Project
+# Open Life Science Project (OLS)
 This repo contains all the drafts, links used to develop Open Life Science Community in Saudi Arabia.
 
 ### My vision statement:
@@ -10,18 +10,21 @@ or:
 **We want to provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm. So we are calling out to researchers and colleagues in Saudi Arabia**
 
 ### News - Week3
-- Legal Team
-- Turing Way in Zenodo and their newsletter
-- WiDS
-- DataSharqiah
-- Puala
-- Ba Essa
+- Legal Team to register the community.
+- Mentioned our community in the WiDs Workshop "Collaborating on Open Data Science Projects", which was well-received. It's available [online](https://batoolmm.github.io/Collaborating-on-Open-Data-Science-Projects/).
+> Batool Almarzouq. (2021, February). Collaborating on Open Data Science Projects (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4561139
+- Mentioned our community in the DataSharqiah talk "An Open Science Approach to Machine Learning in Biomedical Research", which is availabe [online](https://saudi-data-community.netlify.app/#1)
+> Almarzouq, Batool. (2021, February). An Open Science Approach to Machine Learning in Biomedical Research (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.4557637
+- Made a Zonodo community [here](https://www.software.ac.uk/cw21)
+- Both the talk and the workshop were linked to the _Turing Way_ in Zenodo and were added to their newsletterle this month.
+- I met Puala and she was interested to take part in the community.
+- I have a meeting scheduled with Ba Essa (KAUST) next week.
 - Professional Translator: Dalya Alzyr
-- Contacted inosc, maybe join their network
-- Give ISS workshop with Turing way on March
-- Give a workshop with R4E on 17th of March
-- I asked some saudi magazine if I can write articles about open science
-- I'll write few English one in my blog in Medium
+- Contacted International Network of Open Science & Scholarship Communities (INOSC), maybe will join their network. I'm still waiting for their reply
+- Will particiapte in giving a workshop ["Good Practices for Designing Software Development Projects (The Turing Way)"](https://www.software.ac.uk/cw21) in The Software Sustainability Institute’s with Turing way on March
+- I'll also give a workshop with R4E on 17th of March
+- I asked some saudi magazine if I can write articles about open science and our community
+- I'll write few English articles in my blog in Medium this week
 
 ## My Resources:
 - [Existing proposals about community building](https://figshare.com/articles/journal_contribution/A_Programme_for_the_Development_of_Computational_and_Digital_Research_Capacity_in_South_Africa_and_Africa_-_phase_1/3382168)
