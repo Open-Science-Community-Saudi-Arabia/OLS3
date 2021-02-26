@@ -1,9 +1,14 @@
 # Open Life Science Project
 This repo contains all the drafts, links used to develop Open Life Science Community in Saudi Arabia.
-## Anelda
-- [OLS3 notes](https://hackmd.io/eoTDFLL_R9-w0y9mJayGQQ)
-## Paula Moraga Meetings:
-- [First Meeting in the 15th of Feb 2020](https://hackmd.io/193D9bTHTTigF0DqzPuG7A)
+
+### My vision statement:
+
+**I'm working to establish open science community in Saudi Arabia. This community should provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and research.**
+
+or:
+
+**We want to provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm. So we are calling out to researchers and colleagues in Saudi Arabia**
+
 ## My Resources:
 
 ## Other Open Science Comuunites around the World:
