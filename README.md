@@ -1,13 +1,9 @@
 # Open Life Science Project (OLS)
 This repo contains all the drafts, links used to develop Open Life Science Community in Saudi Arabia.
 
-### My vision statement:
+### Our vision statement:
 
-**I'm working to establish open science community in Saudi Arabia. This community should provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and research.**
-
-or:
-
-**We want to provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm. So we are calling out to researchers and colleagues in Saudi Arabia**
+> **We want to provide a place in Saudi Arabia where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm. So we are calling out to researchers and colleagues in Saudi Arabia**
 
 ### News - Week3
 - Legal Team to register the community.
@@ -39,6 +35,14 @@ and Collaborative Science in Development
 Network ](https://elpub.architexturez.net/system/files/STAL9781614997696-0018.pdf)
 - [Supporting Platforms and Infrastructure for Open, Collaborative Science](https://chanzuckerberg.com/science/programs-resources/open-science/)
 - [Developing Open Science in Africa: Barriers, Solutions and Opportunities](https://datascience.codata.org/article/10.5334/dsj-2020-031/)
+- [Highlights from week one of our Research Software Camp on research accessibility](https://www.software.ac.uk/blog/2021-02-26-highlights-week-one-our-research-software-camp-research-accessibility?mc_cid=0ec987da40&mc_eid=891e11d572)
+- [Top tips for managing your open-source project community effectively](https://www.software.ac.uk/top-tips-managing-your-open-source-project-community-effectively)
+- [How to make your script ready for publication](https://www.software.ac.uk/how-make-your-script-ready-publication)
+- [Resources to help make your research accessible](https://www.software.ac.uk/blog/2021-02-23-resources-help-make-your-research-accessible)
+- [RIOT Science Club videos](https://www.youtube.com/c/RIOTScienceClub/videos)
+- [Resources to help make your research accessible](https://www.software.ac.uk/blog/2021-02-23-resources-help-make-your-research-accessible?mc_cid=0ec987da40&mc_eid=891e11d572)
+- [Chris Hartgerink keynote talk on "The social model of inaccessibility"](https://www.youtube.com/watch?v=2fiQry9AmfY)
+- [ReproNim: Towards Reproducible Neuroimaging Neuroscience](https://www.youtube.com/watch?v=_fjgsvdx7as&feature=em-lbrm)
 
 ## Other Open Science Comuunites around the World:
 - [List of all Open Science Communities](https://docs.google.com/spreadsheets/d/1LNF5_bOkRV-RLIF4HYmu-gOemIa4IdfXEer89fM-Vy8/edit#gid=0)
