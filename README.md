@@ -44,6 +44,12 @@ Network ](https://elpub.architexturez.net/system/files/STAL9781614997696-0018.pd
 - [Resources to help make your research accessible](https://www.software.ac.uk/blog/2021-02-23-resources-help-make-your-research-accessible?mc_cid=0ec987da40&mc_eid=891e11d572)
 - [Chris Hartgerink keynote talk on "The social model of inaccessibility"](https://www.youtube.com/watch?v=2fiQry9AmfY)
 - [ReproNim: Towards Reproducible Neuroimaging Neuroscience](https://www.youtube.com/watch?v=_fjgsvdx7as&feature=em-lbrm)
+- [UNESCO Takes the Lead in Developing a New Global Standard-setting Instrument on Open Science](https://en.unesco.org/news/unesco-takes-lead-developing-new-global-standard-setting-instrument-open-science)
+- [KAUST Data Reproducibility Workshop: Course Materials & Resources](https://libguides.kaust.edu.sa/ReproducibilityWS/materials)
+- [Better Science in less time](http://ohi-science.org/betterscienceinlesstime/resources_and_community.html)
+- [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160)
+- [Openscapes](https://www.openscapes.org/about/)
+- [Malaysia Open Science Platform](https://www.akademisains.gov.my/mosp/about/what-is-malaysia-open-science-platform/)
 
 ## Other Open Science Comuunites around the World:
 - [List of all Open Science Communities](https://docs.google.com/spreadsheets/d/1LNF5_bOkRV-RLIF4HYmu-gOemIa4IdfXEer89fM-Vy8/edit#gid=0)
@@ -51,6 +57,8 @@ Network ](https://elpub.architexturez.net/system/files/STAL9781614997696-0018.pd
 ## Possible Collaborations:
 - Turing Way
 - WiDS
+- Repro4Everyone
+- [KAUST library](https://library.kaust.edu.sa/page/meet-the-staff-by-department)
 
 ## Starter Kits:
  - [Starter Kit](https://inosc-starter-kit.netlify.app/)
