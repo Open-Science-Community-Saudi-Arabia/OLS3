@@ -22,6 +22,10 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - I asked some saudi magazine if I can write articles about open science and our community
 - I'll write few English articles in my blog in Medium this week
 - Opened an [issue](https://github.com/open-life-science/ols-3/issues/39) in OLS3 repo.
+### News - Week5
+- Open Education Week
+- KAUST
+
 
 ## My Resources:
 - [Existing proposals about community building](https://figshare.com/articles/journal_contribution/A_Programme_for_the_Development_of_Computational_and_Digital_Research_Capacity_in_South_Africa_and_Africa_-_phase_1/3382168)
