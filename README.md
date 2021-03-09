@@ -23,7 +23,8 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - I'll write few English articles in my blog in Medium this week
 - Opened an [issue](https://github.com/open-life-science/ols-3/issues/39) in OLS3 repo.
 ### News - Week5
-- Open Education Week
+- Open Education Week "The Adoption of Open Science in The Middle East", which is availabe [online](https://open-science-week.netlify.app/#1).
+> Almarzouq, Batool. (2021, March). The Adoption of Open Science in The Middle East (Version v.1.2). Zenodo. http://doi.org/10.5281/zenodo.4574543
 - KAUST (Open Access Week, Formal Letter for Support)
 - Meeting with Luck Network of Open Science & Scholarship Communities Tomorrow
 - Sopke with April (Repro4Everyone), suggusted holding workshops in Saudi Universities + Trranslation of their materials to Arabic.
