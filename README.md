@@ -24,7 +24,13 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - Opened an [issue](https://github.com/open-life-science/ols-3/issues/39) in OLS3 repo.
 ### News - Week5
 - Open Education Week
-- KAUST
+- KAUST (Open Access Week, Formal Letter for Support)
+- Meeting with Luck Network of Open Science & Scholarship Communities Tomorrow
+- Sopke with April (Repro4Everyone), suggusted holding workshops in Saudi Universities + Trranslation of their materials to Arabic.
+- Funding Proposal ( [Code for Science & Society](https://eventfund.codeforscience.org/request-for-proposals/). (Translations, illustrations, captions, ...)
+- Code of Conduct
+- Submitted a lightning talk to CW21 in The Software Sustainability Institute about code review in academia.
+- Volunteer with Mozilla this week + carpentries workshop + Will particiapte in giving a workshop ["Good Practices for Designing Software Development Projects (The Turing Way)"](https://www.software.ac.uk/cw21) in The Software Sustainability Institute’s with Turing way  + Repro4Everyone workshop with April.
 
 
 ## My Resources:
