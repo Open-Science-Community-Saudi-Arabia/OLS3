@@ -31,6 +31,7 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - Code of Conduct
 - Submitted a lightning talk to CW21 in The Software Sustainability Institute about code review in academia.
 - Volunteer with Mozilla this week + carpentries workshop + Will particiapte in giving a workshop ["Good Practices for Designing Software Development Projects (The Turing Way)"](https://www.software.ac.uk/cw21) in The Software Sustainability Institute’s with Turing way  + Repro4Everyone workshop with April.
+- I added to [TODO list](https://github.com/Open-Science-Community-Saudi-Arabia/TODO).
 
 
 ## My Resources:
