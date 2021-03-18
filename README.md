@@ -62,6 +62,8 @@ Network ](https://elpub.architexturez.net/system/files/STAL9781614997696-0018.pd
 - [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160)
 - [Openscapes](https://www.openscapes.org/about/)
 - [Malaysia Open Science Platform](https://www.akademisains.gov.my/mosp/about/what-is-malaysia-open-science-platform/)
+- [The CSCCE Community Participation Model – A framework to describe member engagement and information flow in STEM communities](https://zenodo.org/record/3997802#.YFMZubQzY1J)
+- [The notes from Building Research Software Communities: How to increase engagement in your community](https://docs.google.com/document/d/1DD8CDl_j5xfplQGFLNxubbQt7-BeN2rK7mXvLPvc3ak/edit#heading=h.okw2lntjzjuu)
 
 ## Other Open Science Comuunites around the World:
 - [List of all Open Science Communities](https://docs.google.com/spreadsheets/d/1LNF5_bOkRV-RLIF4HYmu-gOemIa4IdfXEer89fM-Vy8/edit#gid=0)
