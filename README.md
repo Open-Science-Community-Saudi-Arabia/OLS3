@@ -41,7 +41,8 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - Submitted an abstract for an incubator in useR conference about expanding the R community and OS in MENA.
 - Repro4Everyone submitted a agrant (included my name) to translate materials to different langaugse including Arabic.
 - Our first Carpentries Middle East local meeting on the 5th of April - I will discuss open science community in Saudi Arabia.
-- I met few volunteers in MozFest and spoke about my project, hope to giev a talk next year.
+- I met few volunteers in MozFest and spoke about my project, hope to give a talk next year.
+- I attended "building a research software communities: How to increase engagament in your community", the notes [here](https://docs.google.com/document/d/1pxj_PedDAmnnJeiRSqQwPV37S788XJpUhrKgbw8pwVs/edit#) and [here](https://docs.google.com/document/d/1DD8CDl_j5xfplQGFLNxubbQt7-BeN2rK7mXvLPvc3ak/edit#). I might write blog post later about it later on.
 
 
 ## My Resources:
