@@ -1,4 +1,10 @@
-# Open Life Science Project (OLS)
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+<p align="center">
+<img src= "figs/Open Science Community SA-01.png" width = 60%>
+<p/>
+
+## Open Life Science Project (OLS)
 This repo contains all the drafts, links used to develop Open Life Science Community in Saudi Arabia.
 
 ### Our vision statement:
