@@ -41,7 +41,7 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 ### News - Week 7
 - OLS3 cohort call was amazing, with guest speakers Renato Alves, Helena Rasche, Esther Plomp and André Maia Chagas on Agile Project Management, Open Source Software, Open Data and Open Hardware
 - I met with Leok, he was interested in applying OS in the Middle East.
-- He suggsuted I join the steering committe
+- He suggsuted I join the steering committee
 - We finalised the logo of our community
 - Submitted an abstract for an incubator in useR conference about expanding the R community and OS in MENA.
 - Repro4Everyone submitted a agrant (included my name) to translate materials to different langaugse including Arabic.
