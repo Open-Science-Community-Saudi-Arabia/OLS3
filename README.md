@@ -33,6 +33,15 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - Submitted a lightning talk to CW21 in The Software Sustainability Institute about code review in academia.
 - Volunteer with Mozilla this week + carpentries workshop + Will particiapte in giving a workshop ["Good Practices for Designing Software Development Projects (The Turing Way)"](https://www.software.ac.uk/cw21) in The Software Sustainability Institute’s with Turing way  + Repro4Everyone workshop with April.
 - I added [TODO list](https://github.com/Open-Science-Community-Saudi-Arabia/TODO).
+### News - Week 7
+- OLS3 cohort call was amazing, with guest speakers Renato Alves, Helena Rasche, Esther Plomp and André Maia Chagas on Agile Project Management, Open Source Software, Open Data and Open Hardware
+- I met with Leok, he was interested in applying OS in the Middle East.
+- He suggsuted I join the steering committe
+- We finalised the logo of our community
+- Submitted an abstract for an incubator in useR conference about expanding the R community and OS in MENA.
+- Repro4Everyone submitted a agrant (included my name) to translate materials to different langaugse including Arabic.
+- Our first Carpentries Middle East local meeting on the 5th of April - I will discuss open science community in Saudi Arabia.
+- I met few volunteers in MozFest and spoke about my project, hope to giev a talk next year.
 
 
 ## My Resources:
