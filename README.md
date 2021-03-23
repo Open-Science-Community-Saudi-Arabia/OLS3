@@ -49,6 +49,7 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - I met few volunteers in MozFest and spoke about my project, hope to give a talk next year.
 - I attended "building a research software communities: How to increase engagament in your community", the notes [here](https://docs.google.com/document/d/1pxj_PedDAmnnJeiRSqQwPV37S788XJpUhrKgbw8pwVs/edit#) and [here](https://docs.google.com/document/d/1DD8CDl_j5xfplQGFLNxubbQt7-BeN2rK7mXvLPvc3ak/edit#). I might write blog post later about it later on.
 - I'm giving a lightning talk at Collaborations Workshop 2021 in SSI ([CW21](https://bit.ly/ssi-cw21)) titled "Peer code review of computational methods in academic journals" next week- I'll add links to our community.
+- General Authority for Statistics
 
 
 ## My Resources:
