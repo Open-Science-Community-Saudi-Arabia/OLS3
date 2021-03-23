@@ -1,4 +1,3 @@
-[![CC BY 4.0][cc-by-shield]][cc-by]
 
 <p align="center">
 <img src= "figs/Open Science Community SA-01.png" width = 60%>
