@@ -4,7 +4,13 @@
 <p/>
 
 ## Open Life Science Project (OLS)
-This repo contains all the drafts, links used to develop Open Life Science Community in Saudi Arabia.
+This repo contains all the drafts, links used to develop Open Life Science Community in Saudi Arabia. OLS3 is 16-week mentoring & training program, based on the Mozilla Open Leader program, helping participants in becoming Open Science ambassadors.
+
+[The OLS-3 program](https://openlifesci.org/ols-3)
+
+[OLS-2 schedule](https://openlifesci.org/ols-3/schedule/)
+
+[Track our progress in OLS-3](https://github.com/open-life-science/ols-3/issues/39)
 
 ### Our vision statement:
 
