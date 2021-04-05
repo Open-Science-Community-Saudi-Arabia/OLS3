@@ -59,6 +59,14 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - A demo for general template for [the website for OSCSA](https://oscsa.netlify.app/index.html)
 - Funding from Code for Science and Society, how much am I suppose to apply for (e.g. $5-10K)?
 
+### News - Week 9
+- Enjoyed the "dissemination" session - AutSpaces project.
+- Carpentries local community call - open science enthusiasts.
+- I submitted the grant.
+- I found an Arabic Trnslations (Resources) about Open Science funded by the European Union. It seems to be the only one!
+- I was contacted by Daniel Nüst from CODECHECKER.
+- I hired an artist to draw illustrations about the Open Science in the global South but wasn't good.
+- Trying to make a proposal for General Authority for Statistics - examples?
 
 ## My Resources:
 
