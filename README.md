@@ -64,7 +64,7 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - Enjoyed the "dissemination" session - AutSpaces project.
 - Carpentries local community call - Open Science enthusiasts.
 - I submitted the grant.
-- I attended a workshop titled ["Building Research Software Communities: How to increase engagement in your community"](https://docs.google.com/document/d/1DD8CDl_j5xfplQGFLNxubbQt7-BeN2rK7mXvLPvc3ak/edit#heading=h.okw2lntjzjuu).
+- I attended interesting workshop about ["Building Research Software Communities: How to increase engagement in your community"](https://docs.google.com/document/d/1DD8CDl_j5xfplQGFLNxubbQt7-BeN2rK7mXvLPvc3ak/edit#heading=h.okw2lntjzjuu).
 - I found [an Arabic Trnslations (Resources)](https://romor.iugaza.edu.ps/open-science/course/1/%D9%85%D8%A7-%D9%87%D9%88-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD) about Open Science funded by the European Commission under the ERASMUS + European programme.
 - I was contacted by Daniel Nüst from CODECHECKER.
 - I hired an artist to draw illustrations about the Open Science in the global South but wasn't good.
