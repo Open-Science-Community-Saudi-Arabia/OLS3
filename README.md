@@ -69,6 +69,7 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - I was contacted by Daniel Nüst from CODECHECKER.
 - I hired an artist to draw illustrations about the Open Science in the global South but wasn't good.
 - Trying to make a proposal for [General Authority for Statistics](https://www.stats.gov.sa/en) - examples?
+- Can we divide the next meeting?
 
 ## My Resources:
 
