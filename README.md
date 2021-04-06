@@ -56,7 +56,7 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - I attended "building a research software communities: How to increase engagament in your community", the notes [here](https://docs.google.com/document/d/1pxj_PedDAmnnJeiRSqQwPV37S788XJpUhrKgbw8pwVs/edit#) and [here](https://docs.google.com/document/d/1DD8CDl_j5xfplQGFLNxubbQt7-BeN2rK7mXvLPvc3ak/edit#). I might write blog post later about it later on.
 - I'm giving a lightning talk at Collaborations Workshop 2021 in SSI ([CW21](https://bit.ly/ssi-cw21)) titled "Peer code review of computational methods in academic journals" next week- I'll add links to our community.
 - General Authority for Statistics
-- A demo for general template for [the website for OSCSA](https://oscsa.netlify.app/index.html)
+- A demo for general template for [the website for OSCSA](https://osc-sa.netlify.app/#)
 - Funding from Code for Science and Society, how much am I suppose to apply for (e.g. $5-10K)?
 
 ### News - Week 9
@@ -64,7 +64,7 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - Enjoyed the "dissemination" session - AutSpaces project.
 - Carpentries local community call - Open Science enthusiasts.
 - I submitted the grant.
-- I attended a workshop titled "(Building Research Software Communities: How to increase engagement in your community)"[https://docs.google.com/document/d/1DD8CDl_j5xfplQGFLNxubbQt7-BeN2rK7mXvLPvc3ak/edit#heading=h.okw2lntjzjuu].
+- I attended a workshop titled ["Building Research Software Communities: How to increase engagement in your community"](https://docs.google.com/document/d/1DD8CDl_j5xfplQGFLNxubbQt7-BeN2rK7mXvLPvc3ak/edit#heading=h.okw2lntjzjuu).
 - I found [an Arabic Trnslations (Resources)](https://romor.iugaza.edu.ps/open-science/course/1/%D9%85%D8%A7-%D9%87%D9%88-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD) about Open Science funded by the European Commission under the ERASMUS + European programme.
 - I was contacted by Daniel Nüst from CODECHECKER.
 - I hired an artist to draw illustrations about the Open Science in the global South but wasn't good.
