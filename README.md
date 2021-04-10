@@ -101,6 +101,8 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - [KAUST Data Reproducibility Workshop: Course Materials & Resources](https://libguides.kaust.edu.sa/ReproducibilityWS/materials)
 
 ### Open Science Articles
+ > Almarzouq, Batool (2021): Peer Code Review for Computational Methods - Batool Almarzouq. Software Sustainability Institute: Collaborations Workshop. Presentation. https://doi.org/10.6084/m9.figshare.14331134.v1
+ 
 - [Why open research](http://whyopenresearch.org/)
 - [Framing a Situated and Inclusive Open
 Science: Emerging Lessons from the Open
