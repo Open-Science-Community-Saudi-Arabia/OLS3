@@ -73,6 +73,11 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - Change the description of the project in OLS3 webiste
 - The theory of change, map, proposals, website!
 
+### News - Week 11
+- A meeting with Serah from the carpentries, discussed the limittaion of building local community in MENA. 
+- I recived a serval opportunities to talk about OSCSA
+
+
 ## My Resources:
 
 ### Community building
