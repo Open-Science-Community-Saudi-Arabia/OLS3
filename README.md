@@ -122,6 +122,11 @@ Network ](https://elpub.architexturez.net/system/files/STAL9781614997696-0018.pd
 - [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160)
 - [Openscapes](https://www.openscapes.org/about/)
 
+### Community of Practice in the Middel East
+-[Taqeem Community of Practice for results measurement in youth employment](https://www.ilo.org/employment/areas/youth-employment/WCMS_458221/lang--en/index.htm)
+-[Communities of Practice in an Arabic Culture: Wenger’s Model and the United Arab Emirates Implications for Online Learning](https://www.researchgate.net/publication/26406548_Communities_of_Practice_in_an_Arabic_Culture_Wenger's_Model_and_the_United_Arab_Emirates_Implications_for_Online_Learning)
+-[Communities of practice for development in the Middle East and North Africa](https://www.researchgate.net/publication/237732811_Communities_of_practice_for_development_in_the_Middle_East_and_North_Africa)
+-[Community of Practice in Wiki](https://ar.wikipedia.org/wiki/%D8%AC%D9%85%D8%A7%D8%B9%D8%A9_%D8%A7%D9%84%D9%85%D9%85%D8%A7%D8%B1%D8%B3%D8%A9)
 
 ### Other Open Science Comuunites around the World:
 - [List of all Open Science Communities](https://docs.google.com/spreadsheets/d/1LNF5_bOkRV-RLIF4HYmu-gOemIa4IdfXEer89fM-Vy8/edit#gid=0)
