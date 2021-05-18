@@ -85,6 +85,7 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - [Go over the presentation](https://docs.google.com/presentation/d/1fFw97HKyAk12PXAM5UYYnH_N19JakwQN5IBONeJHxuk/edit#slide=id.ge965474a9_3_282)
 - Discuss translationg the vidos of the OSL3
 - Possible Meeting next Week!
+- Do we need permission for logo (inspired by) section?
 - Assignment
 
 ## My Resources:
