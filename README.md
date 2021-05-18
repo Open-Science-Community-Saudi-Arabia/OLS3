@@ -84,9 +84,8 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - [Preparing for graduation](https://hackmd.io/@ols-3/grad-guide), Book graduation slots fot [Graduation Rehearsal](https://docs.google.com/document/d/1eyJba_7Ltrhxgbb4_vVYXylCXwsgjJRnWIn8XwIGkq4/edit#) and [next week](https://www.eventbrite.co.uk/o/open-life-science-31351238135).
 - [Go over the presentation](https://docs.google.com/presentation/d/1fFw97HKyAk12PXAM5UYYnH_N19JakwQN5IBONeJHxuk/edit#slide=id.ge965474a9_3_282)
 - Discuss translationg the vidos of the OSL3
-- Possible Meeting next Week!
+- Possible Meeting next Week to discuss persona in my project!
 - Do we need permission for logo (inspired by) section?
-- Assignment
 
 ## My Resources:
 
