@@ -80,7 +80,7 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 ### News - Week 15
 - I had [a panel discussion](https://nuigalway.mediaspace.kaltura.com/media/OSW2021A+Putting+together+the+piecesA+How+can+Communities+support+Open+ScholarshipF/1_qyj8srq0/121659351) as part of event for OSC Galway
 - I had [a meeting with all OSCs in INOSCs](https://docs.google.com/document/d/1O7i5Rn_BV5DHkNpOW-xRf0MAYiAwcRt0i5qUGsiRWxE/edit#)
-- Discuss about Communities of Practice (CoPs)
+- Discuss about Communities of Practice (CoPs) and OpenAIRE!
 - [Preparing for graduation](https://hackmd.io/@ols-3/grad-guide), Book graduation slots fot [Graduation Rehearsal](https://docs.google.com/document/d/1eyJba_7Ltrhxgbb4_vVYXylCXwsgjJRnWIn8XwIGkq4/edit#) and [next week](https://www.eventbrite.co.uk/o/open-life-science-31351238135).
 - [Go over the presentation](https://docs.google.com/presentation/d/1fFw97HKyAk12PXAM5UYYnH_N19JakwQN5IBONeJHxuk/edit#slide=id.ge965474a9_3_282)
 - Discuss translationg the vidos of the OSL3
