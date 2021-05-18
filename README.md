@@ -77,6 +77,11 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 - A meeting with Serah from the carpentries, discussed the limittaion of building local community in MENA. 
 - I recived a serval opportunities to talk about OSCSA
 
+### News - Week 13
+- Book graduation slots
+- Go over the presentation
+- Discuss translationg the vidos of the OSL3
+- Assignment
 
 ## My Resources:
 
