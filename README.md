@@ -99,6 +99,7 @@ This repo contains all the drafts, links used to develop Open Life Science Commu
 
 ### Translations of Open Science Vocabs to Arabic
 - [Translation from Samar - translation of materials to Arabic](https://www.youtube.com/channel/UCD2J9v2BVPtP7Ousy1Ewo8g)
+- [Open Science in Arabic](https://romor.iugaza.edu.ps/open-science/course/1/%D9%85%D8%A7-%D9%87%D9%88-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD)
 
 ### Activities
 - [How to make your script ready for publication](https://www.software.ac.uk/how-make-your-script-ready-publication)
