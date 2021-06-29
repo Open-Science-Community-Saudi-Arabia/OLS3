@@ -141,6 +141,18 @@ Network ](https://elpub.architexturez.net/system/files/STAL9781614997696-0018.pd
 ### Other Open Science Comuunites around the World:
 - [List of all Open Science Communities](https://docs.google.com/spreadsheets/d/1LNF5_bOkRV-RLIF4HYmu-gOemIa4IdfXEer89fM-Vy8/edit#gid=0)
 
+## Translation Piplines and resources:
+-[The Turing Way Translation Branch in GH](https://github.com/alan-turing-institute/the-turing-way/tree/translation)
+-[GH issue for Guidelines for translating the Turing Way into other languages](https://github.com/alan-turing-institute/the-turing-way/issues/767)
+-[Translation Guide written by Tony in the Turing Way](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md)
+-[carpentries-i18n](https://github.com/carpentries-i18n)
+-[The Turing Way Translation account in Transfix](https://www.transifex.com/theturingway/theturingway/)
+-[Structure of Translation in the Carpentries](https://github.com/datacarpentry/python-ecology-lesson-es/blob/gh-pages/fechas-progreso.md)
+-[Twitter Thread explaining the translation of the carpentries](https://twitter.com/raynamharris/status/1123809786766745605)
+-[Weblate Tool](https://weblate.org/en-gb/)
+-[Zanta Tool](http://zanata.org/)
+-[The roadmap for translation created by the Carpentries](https://github.com/datacarpentry/python-ecology-lesson-es/projects/1)
+
 ### Possible Collaborations:
 - Turing Way
 - WiDS
